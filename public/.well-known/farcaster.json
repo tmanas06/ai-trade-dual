@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIn0",
+    "payload": "eyJkb21haW4iOiJhaS10cmFkZS1kdWFsLnZlcmNlbC5hcHAifQ",
+    "signature": "MHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw"
+  },
+  "frame": {
+    "version": "1",
+    "name": "AI Trade Duel",
+    "iconUrl": "https://ai-trade-dual.vercel.app/icon.png",
+    "homeUrl": "https://ai-trade-dual.vercel.app",
+    "imageUrl": "https://ai-trade-dual.vercel.app/api/og?screen=home",
+    "buttonTitle": "Play Now",
+    "splashImageUrl": "https://ai-trade-dual.vercel.app/api/og?screen=home",
+    "splashBackgroundColor": "#1a1a2e",
+    "webhookUrl": "https://ai-trade-dual.vercel.app/api/frame"
+  }
+}
